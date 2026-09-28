@@ -1,311 +1,330 @@
-<!-- ===================================================== -->
-<!--               RAJ MUKUT • GITHUB PROFILE              -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <img src="./github_banner.png" width="100%" alt="Raj Mukut | Full-Stack Developer"/>
-</p>
+<!--
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                 R A J   M U K U T  //  2026                       ║
+║                                                                    ║
+║              FULL-STACK DEVELOPER • DIGITAL PROFILE               ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=RAJ%20MUKUT&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=55" width="100%"/>
+<!-- ========================= HERO ========================= -->
 
-### `FULL-STACK DEVELOPER` • `SOFTWARE DEVELOPER` • `CSE GRADUATE`
+<img src="./github-banner.png" width="100%" alt="Raj Mukut — Full Stack Developer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=%3E+Full-Stack+Web+Developer;%3E+Laravel+%7C+PHP+%7C+React.js;%3E+Node.js+%7C+Express.js+%7C+MongoDB;%3E+Building+Secure+%26+Scalable+Systems;%3E+Turning+Ideas+Into+Real-World+Applications;%3E+Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="Animated Typing"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=650&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=65&lines=%E2%9D%AF+INITIALIZING+RAJ_MUKUT.EXE...;%E2%9D%AF+FULL-STACK+DEVELOPER;%E2%9D%AF+LARAVEL+%E2%80%A2+PHP+%E2%80%A2+REACT.JS+%E2%80%A2+NODE.JS;%E2%9D%AF+BUILDING+SECURE+%26+SCALABLE+SYSTEMS;%E2%9D%AF+IDEA+%E2%86%92+CODE+%E2%86%92+PRODUCT"
+alt="Raj Mukut Developer Animation"
+/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/◈_FULL--STACK-DEVELOPER-00E5FF?style=for-the-badge&labelColor=050A12"/>
+<img src="https://img.shields.io/badge/◈_CSE-GRADUATE-8B5CF6?style=for-the-badge&labelColor=050A12"/>
+<img src="https://img.shields.io/badge/◈_BUILDING-00C853?style=for-the-badge&labelColor=050A12"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajmukut791&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rajmukut1628&label=PROFILE%20VIEWS&style=flat-square&color=00B8D4"/>
+<img src="https://img.shields.io/github/followers/rajmukut1628?label=FOLLOWERS&style=flat-square&color=8B5CF6"/>
 
-<img src="https://img.shields.io/github/followers/rajmukut791?label=FOLLOWERS&style=for-the-badge" alt="Followers"/>
+<br/><br/>
 
-<img src="https://img.shields.io/github/stars/rajmukut791?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge" alt="Stars"/>
+<code>DHAKA 🇧🇩</code>
+&nbsp; • &nbsp;
+<code>FULL-STACK</code>
+&nbsp; • &nbsp;
+<code>WEB SYSTEMS</code>
+&nbsp; • &nbsp;
+<code>PROBLEM SOLVER</code>
 
 </div>
 
 <br/>
 
----
+<!-- ========================= IDENTITY ========================= -->
 
 <div align="center">
 
-# ⚡ DEVELOPER PROFILE
+## `◢ DEVELOPER_IDENTITY ◣`
 
-### 👨‍💻 About Me
-
-I'm **Raj Mukut**, a Full-Stack Developer from **Dhaka, Bangladesh 🇧🇩**
-
-🎓 **B.Sc. in Computer Science & Engineering**  
-🏛️ **Northern University Bangladesh**
-
-I build **modern, secure and scalable web applications** with a strong focus on
-backend architecture, database design and practical user experiences.
-
-<br/>
-
-`💻 FULL-STACK DEVELOPMENT` • `⚙️ BACKEND ENGINEERING`
-
-`🗄️ DATABASE DESIGN` • `🔐 SECURE APPLICATIONS`
-
-`🚀 REAL-WORLD SOFTWARE`
-
-<br/>
-
-> ### 「 Turning Ideas Into Real-World Applications 」
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ TECHNOLOGY ARSENAL
-
-### 🎨 FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
-
-<br/><br/>
-
-### ⚙️ BACKEND
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" />
-
-<br/><br/>
-
-### 🗄️ DATABASE
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-
-<br/><br/>
-
-### 🛠️ DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-# 🧬 DEVELOPMENT MATRIX
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│                      R A J   M U K U T                          │
+│                                                                 │
+│                FULL-STACK WEB DEVELOPER                         │
+│                                                                 │
+│              BUILD  •  LEARN  •  IMPROVE                       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <table>
 <tr>
-<td width="50%" align="center">
 
-### 🌐 FULL-STACK
+<td width="58%" valign="top">
 
-Frontend + Backend  
-Modern Web Applications  
-Responsive Interfaces  
-Application Architecture
+### `01 // PROFILE`
+
+I'm **Raj Mukut**, a **Full-Stack Developer** and **CSE Graduate** focused on building modern, secure and practical web applications.
+
+I enjoy turning real-world ideas into complete software systems — from interface and backend logic to databases and access control.
+
+<br/>
+
+**🎓 Education**
+
+B.Sc. in Computer Science & Engineering  
+**Northern University Bangladesh**
+
+<br/>
+
+**📍 Based in**
+
+Dhaka, Bangladesh 🇧🇩
 
 </td>
 
-<td width="50%" align="center">
+<td width="42%" valign="top">
 
-### 🔐 SECURITY
+### `02 // SYSTEM.config`
 
-Authentication  
-Role-Based Access  
-Secure Data Handling  
-Protected Applications
+```yaml
+USER:
+  Raj Mukut
+
+ROLE:
+  Full-Stack Developer
+
+FOCUS:
+  Web Applications
+  Backend Systems
+  Secure Architecture
+
+CORE:
+  Laravel
+  React.js
+  Node.js
+
+DATA:
+  MySQL
+  MongoDB
+
+STATUS:
+  ● BUILDING
+```
 
 </td>
+
 </tr>
+</table>
 
+<br/>
+
+<!-- ========================= TECH ========================= -->
+
+<div align="center">
+
+## `⚡ TECHNOLOGY_MATRIX`
+
+### `TOOLS I USE TO TURN IDEAS INTO SOFTWARE`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,nodejs,express,mysql,mongodb,git,github,vscode,postman&theme=dark&perline=15"/>
+
+<br/><br/>
+
+<table>
 <tr>
-<td width="50%" align="center">
 
-### 🗄️ DATABASE
+<td align="center" width="25%">
 
-MySQL  
-MongoDB  
-Database Architecture  
-Data Management
+### `FRONTEND`
+
+React.js  
+JavaScript  
+Tailwind CSS
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="25%">
 
-### ⚡ BACKEND
+### `BACKEND`
 
 Laravel  
 PHP  
-Node.js  
-Express.js  
-REST APIs
+Node.js
 
 </td>
+
+<td align="center" width="25%">
+
+### `DATABASE`
+
+MySQL  
+MongoDB
+
+</td>
+
+<td align="center" width="25%">
+
+### `ENGINEERING`
+
+Authentication  
+Security  
+Architecture
+
+</td>
+
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║             BUILD  →  LEARN  →  IMPROVE  →  REPEAT          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+             FRONTEND
+                 │
+                 ▼
+        ┌─────────────────┐
+        │   APPLICATION   │
+        └────────┬────────┘
+                 │
+        ┌────────┴────────┐
+        ▼                 ▼
+     BACKEND           SECURITY
+        │                 │
+        └────────┬────────┘
+                 ▼
+             DATABASE
+                 │
+                 ▼
+              PRODUCT
 ```
 
 </div>
 
----
+<br/>
+
+<!-- ========================= PROJECTS ========================= -->
 
 <div align="center">
 
-# 🚀 FEATURED PROJECTS
+## `🚀 PROJECT_UNIVERSE`
 
-### Building software for real-world problems
+### `SELECTED SYSTEMS // REAL-WORLD BUILDS`
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=550&color=8B5CF6&center=true&vCenter=true&width=800&height=50&lines=UNIVERSITY+CONNECT+%2F%2F+COMMUNITY;NIRBHOY+BANGLADESH+%2F%2F+REPORTING;MEDHBOOK+%2F%2F+HEALTHCARE;PORTFOLIO+%2F%2F+PERSONAL+BRAND"
+alt="Projects"
+/>
 
 </div>
-
-<br/>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🎓 University Connect
+### `01` 🎓 UNIVERSITY CONNECT
 
-**University Community Platform**
+**University Community Ecosystem**
 
-A role-based ecosystem connecting students, alumni, mentors and university administrators.
+Role-based platform connecting students, alumni, mentors and administrators.
 
-### ⚡ Core Systems
+**CORE**
 
-`Student`
+`Newsfeed` • `Mentorship` • `Jobs`  
+`Messaging` • `Events` • `Profiles`
 
-`Alumni`
+**STACK**
 
-`Admin`
+`Laravel` `PHP` `MySQL` `Tailwind`
 
-`Super Admin`
+<br/>
 
-### ✨ Features
-
-- 📰 Newsfeed
-- 🤝 Mentorship
-- 💼 Job Portal
-- 💬 Messaging
-- 📅 Events
-- ❤️ Donations
-- 🔐 Role-Based Access
-- 👤 Profile Management
-
-### ⚙️ Stack
-
-`Laravel` `PHP` `MySQL`  
-`JavaScript` `Tailwind CSS`
+> `STUDENT → ALUMNI → MENTOR → ADMIN`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛡️ Nirbhoy Bangladesh
+### `02` 🛡️ NIRBHOY BANGLADESH
 
 **Public Reporting Platform**
 
-A structured reporting and administrative verification platform for extortion-related reports.
+Public reporting system with evidence management, tracking and administrative verification.
 
-### ⚡ Core Systems
+**CORE**
 
-`Public Reporting`
+`Reports` • `Evidence` • `Tracking`  
+`Locations` • `Verification` • `Hot List`
 
-`Admin Verification`
+**STACK**
 
-`Evidence Management`
+`Laravel` `Livewire` `MySQL` `Tailwind`
 
-`Location Directory`
+<br/>
 
-### ✨ Features
-
-- 📝 Report Submission
-- 🕵️ Anonymous Reporting
-- 📎 Evidence Upload
-- 🔢 Tracking Codes
-- 📍 Location Filtering
-- 🔥 Hot List
-- ♻️ Duplicate Detection
-- 🛡️ Admin Review
-
-### ⚙️ Stack
-
-`Laravel` `Livewire` `PHP`  
-`MySQL` `Tailwind CSS`
+> `REPORT → VERIFY → PUBLISH`
 
 </td>
 
 </tr>
-</table>
 
-<br/>
-
-<table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🏥 MedHBook
+### `03` 🏥 MEDHBOOK
 
-**Healthcare Management Platform**
+**Healthcare Management System**
 
-A healthcare application focused on doctor discovery, appointments and secure medical information.
+Healthcare platform connecting patients, doctors and administrators with secure medical record access.
 
-### ✨ Features
+**CORE**
 
-- 👨‍⚕️ Doctor System
-- 🧑 Patient System
-- 🛡️ Admin System
-- 🔎 Doctor Search
-- 📅 Appointment Booking
-- ⚠️ Conflict Prevention
-- 📁 Medical Documents
-- 🔐 Secure Record Access
+`Doctors` • `Appointments`  
+`Medical Records` • `Secure Access`
 
-### ⚙️ Stack
+**STACK**
 
-`React.js` `Node.js`  
-`Express.js` `MongoDB`
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+<br/>
+
+> `PATIENT → DOCTOR → CARE`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 👨‍💻 Developer Portfolio
+### `04` 💻 MORE BUILDS
 
-**Personal Developer Platform**
+**Developer Portfolio**
 
-A modern portfolio for showcasing projects, technical skills and my development journey.
+`Laravel` • `PHP` • `MySQL`
 
-### ✨ Features
+Modern developer portfolio with project showcase and administration.
 
-- ✨ Animated Interface
-- 💻 Project Showcase
-- ⚡ Skills
-- 🎓 Education
-- 📬 Contact
-- 🔐 Admin Panel
-- 📱 Responsive UI
+<br/>
 
-### ⚙️ Stack
+**🧠 Disease Prediction System**
 
-`Laravel` `PHP`  
-`MySQL` `JavaScript`
+`Python` • `Machine Learning`
+
+Structured symptom-to-prediction workflow.
+
+<br/>
+
+> `IDEA → ARCHITECTURE → PRODUCT`
 
 </td>
 
@@ -314,205 +333,187 @@ A modern portfolio for showcasing projects, technical skills and my development 
 
 <br/>
 
-<table>
-<tr>
-<td align="center">
-
-## 🧠 Disease Prediction System
-
-**Machine Learning Project**
-
-A software project focused on processing symptoms and structured information through a disease-prediction workflow.
-
-`Python` • `Machine Learning` • `Data Processing` • `Prediction`
-
-</td>
-</tr>
-</table>
-
----
+<!-- ========================= TELEMETRY ========================= -->
 
 <div align="center">
 
-# 📊 LIVE GITHUB ANALYTICS
+## `◉ LIVE_DEVELOPER_TELEMETRY`
 
-### ⚡ Development activity in real time
+### `GITHUB // RAJMUKUT1628`
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajmukut791&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajmukut1628&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmukut791&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmukut1628&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&langs_count=8"/>
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=rajmukut1628&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=rajmukut1628&theme=tokyo-night&hide_border=true&radius=18&area=true&custom_title=RAJ%20MUKUT%20%2F%2F%20DEVELOPMENT%20SIGNAL"
+width="100%"
+alt="Contribution Activity"
+/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-# 🔥 CODING STREAK
-
-<img src="https://streak-stats.demolab.com?user=rajmukut791&theme=tokyonight&hide_border=true&border_radius=20" width="70%" alt="GitHub Streak"/>
-
-</div>
-
----
+<!-- ========================= 3D ========================= -->
 
 <div align="center">
 
-# 📈 LIVE CONTRIBUTION ACTIVITY
+## `🌌 3D_CONTRIBUTION_MATRIX`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajmukut791&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Raj%20Mukut's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌌 3D CONTRIBUTION UNIVERSE
-
-### My coding journey in three dimensions
+### `365 DAYS // ONE DEVELOPMENT JOURNEY`
 
 <br/>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+<img
+src="./profile-3d-contrib/profile-night-rainbow.svg"
+width="100%"
+alt="Raj Mukut 3D Contribution Graph"
+/>
 
 <br/>
-
-### ⚡ CONSISTENCY TURNS IDEAS INTO SOFTWARE
-
-</div>
-
----
-
-<div align="center">
-
-# 🎯 CURRENT MISSION
-
-</div>
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🔨 BUILD
-
-Creating practical  
-full-stack applications  
-for real-world problems.
-
-</td>
-
-<td align="center" width="33%">
-
-### 📚 LEARN
-
-Continuously exploring  
-modern technologies  
-and better architecture.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀 IMPROVE
-
-Writing cleaner code  
-and building more  
-scalable systems.
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
 
 ```text
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│                      CURRENT FOCUS                            │
-│                                                               │
-│              ⚡ FULL-STACK DEVELOPMENT                        │
-│              ⚙️ BACKEND ENGINEERING                          │
-│              🔐 SECURE WEB APPLICATIONS                      │
-│              🗄️ DATABASE ARCHITECTURE                        │
-│              🚀 SCALABLE SOFTWARE SYSTEMS                    │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+        ◉ BUILD
+            │
+            ▼
+        ◉ LEARN
+            │
+            ▼
+        ◉ IMPROVE
+            │
+            ▼
+        ◉ REPEAT
+```
+
+### `CONSISTENCY > INTENSITY`
+
+</div>
+
+<br/>
+
+<!-- ========================= CURRENT ========================= -->
+
+<div align="center">
+
+## `🎯 CURRENT_FOCUS`
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### ⚙️ `BUILD`
+
+Full-Stack  
+Applications
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 `MASTER`
+
+Backend  
+Architecture
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 `IMPROVE`
+
+Security &  
+System Design
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ========================= TERMINAL ========================= -->
+
+<div align="center">
+
+## `>_ DEVELOPER_TERMINAL`
+
+```bash
+┌──(raj㉿github)-[~/profile]
+│
+├─$ whoami
+│  Raj Mukut // Full-Stack Developer
+│
+├─$ mission
+│  Build useful software for real-world problems.
+│
+├─$ stack
+│  Laravel • React.js • Node.js • MySQL • MongoDB
+│
+├─$ mindset
+│  Build → Learn → Improve → Repeat
+│
+└─$ status
+   ● READY TO BUILD _
 ```
 
 </div>
 
----
+<br/>
+
+<!-- ========================= CONNECT ========================= -->
 
 <div align="center">
 
-# 💭 DEVELOPER PHILOSOPHY
+## `◈ CONNECTION_PORT`
+
+### `LET'S TURN IDEAS INTO SOFTWARE.`
 
 <br/>
 
-### `01` THINK
-
-Understand the problem.
-
-### ↓
-
-### `02` DESIGN
-
-Create the right architecture.
-
-### ↓
-
-### `03` BUILD
-
-Turn the idea into software.
-
-### ↓
-
-### `04` IMPROVE
-
-Make it cleaner, faster and better.
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=%5B+OPEN+TO+COLLABORATION+%5D;%5B+OPEN+TO+LEARNING+%5D;%5B+OPEN+TO+BUILDING+GREAT+SOFTWARE+%5D"
+alt="Connect Animation"
+/>
 
 <br/>
 
-> ## 「 Good software starts with a real problem worth solving. 」
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│                  R A J   M U K U T                       │
+│                                                          │
+│              FULL-STACK DEVELOPER                        │
+│                                                          │
+│             DHAKA • BANGLADESH 🇧🇩                       │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
+### `CODE`　→　`BUILD`　→　`LEARN`　→　`EVOLVE`
+
+<br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&text=RAJ%20MUKUT&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=72&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20BUILDING%20THE%20FUTURE&descSize=12&descAlignY=90"
+width="100%"
+/>
 
 </div>
 
----
-
-<div align="center">
-
-# 🤝 LET'S CONNECT
-
-### Interested in software development, collaboration and modern web technologies.
-
-<br/>
-
-**💻 CODE**　•　**🚀 BUILD**　•　**📚 LEARN**　•　**🔥 IMPROVE**
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=Thanks+for+visiting+my+GitHub+Profile+%F0%9F%91%8B;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+%E2%80%A2+Building+for+the+World+%F0%9F%8C%8D" />
-
-<br/>
-
-### 🇧🇩 DHAKA, BANGLADESH
-
-**B.Sc. in Computer Science & Engineering**  
-Northern University Bangladesh
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20IMPROVE%20%E2%80%A2%20REPEAT&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
-
-</div>
-
-<!-- ===================================================== -->
-<!--                    END OF PROFILE                     -->
-<!-- ===================================================== -->
+<!--
+════════════════════════════════════════════════════════════════════
+                     END // RAJ MUKUT
+════════════════════════════════════════════════════════════════════
+-->
