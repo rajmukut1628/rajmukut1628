@@ -4,98 +4,53 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&height=50&lines=Building+ideas+into+useful+software.;Laravel+%C2%B7+React+%C2%B7+Node.js;Thoughtful+interfaces.+Reliable+backends." alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&height=55&lines=Ideas+into+interfaces.;Logic+into+reliable+systems.;Laravel+%C2%B7+React+%C2%B7+Node.js;Let's+build+something+useful." width="100%" alt="Animated introduction" />
 
-**Full-Stack Developer · CSE Graduate · Dhaka, Bangladesh**
+**FULL-STACK DEVELOPER**  
+Dhaka, Bangladesh · CSE Graduate
 
 <br />
 
-<a href="https://github.com/rajmukut1628?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
-</a>
+<a href="https://github.com/rajmukut1628?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View projects" /></a>
 &nbsp;
-<a href="https://github.com/rajmukut1628">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" />
-</a>
+<a href="https://github.com/rajmukut1628"><img src="https://img.shields.io/badge/CONNECT-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
 
 </div>
 
 <br />
 
-## About Me
-
-I'm **Raj Mukut**, a Computer Science & Engineering graduate from **Northern University Bangladesh**. I build practical web applications, connecting clean interfaces with backend systems, authentication and databases.
-
-<br />
-
-## My Toolkit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,react,js,tailwind,nodejs,express,mysql,mongodb,git&theme=dark&perline=10" alt="Laravel, PHP, React, JavaScript, Tailwind CSS, Node.js, Express, MySQL, MongoDB and Git" />
-
-<br /><br />
-
-**Frontend** &nbsp; React · JavaScript · Tailwind CSS  
-**Backend** &nbsp; Laravel · PHP · Node.js · Express  
-**Database** &nbsp; MySQL · MongoDB
-
-</div>
-
-<br />
-
-## Selected Projects
+## Selected Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🎓 University Connect
+### 01 &nbsp; / &nbsp; NUB Connect
+**A connected university community.**
 
-A community platform connecting students, alumni and mentors.
+Students, alumni and mentors — newsfeeds, messaging and opportunities.
 
-**Newsfeed · Mentorship · Jobs · Messaging**
-
-<img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Nirbhoy Bangladesh
-
-A public reporting platform with evidence tracking and verification.
-
-**Reports · Evidence · Tracking · Verification**
-
-<img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/Livewire-1E293B?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+`Laravel` &nbsp; `MySQL` &nbsp; `Tailwind CSS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 MedhBook
+### 02 &nbsp; / &nbsp; Nirbhoy Bangladesh
 
-A healthcare platform connecting patients, doctors and administrators.
+Public reporting with evidence tracking and verification.
 
-**Appointments · Medical Records · Secure Access**
-
-<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+`Laravel` &nbsp; `Livewire` &nbsp; `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Developer Portfolio
+### 03 &nbsp; / &nbsp; MedhBook
 
-A personal portfolio with project showcases and content management.
+Appointments and medical records in one healthcare platform.
 
-**Projects · Profile · Admin Dashboard**
-
-<img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+`React` &nbsp; `Node.js` &nbsp; `MongoDB`
 
 </td>
 </tr>
@@ -103,20 +58,24 @@ A personal portfolio with project showcases and content management.
 
 <br />
 
-## Development Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajmukut1628&bg_color=0d1117&color=94a3b8&line=60a5fa&point=bfdbfe&area=true&area_color=1d4ed8&hide_border=true&custom_title=Building%20%26%20Learning" width="100%" alt="GitHub contribution activity" />
+### The Stack
+
+<img src="https://skillicons.dev/icons?i=laravel,php,react,js,tailwind,nodejs,mysql,mongodb&theme=dark&perline=8" alt="Laravel, PHP, React, JavaScript, Tailwind CSS, Node.js, MySQL and MongoDB" />
+
+<br /><br />
+
+---
 
 <br />
 
-**Have an idea? Let's build something useful.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=1400&color=94A3B8&center=true&vCenter=true&width=600&height=40&lines=Clean+interfaces.+Thoughtful+engineering.;Always+building.+Always+learning.;Open+to+collaboration." width="100%" alt="Open to collaboration. Always building and learning." />
 
-[Explore my repositories →](https://github.com/rajmukut1628?tab=repositories)
+[**Explore my work ↗**](https://github.com/rajmukut1628?tab=repositories)
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=110&section=footer&text=LET%27S%20BUILD&fontSize=18&fontColor=FFFFFF&fontAlignY=75&animation=twinkling" width="100%" alt="Let's build" />
 
 </div>
